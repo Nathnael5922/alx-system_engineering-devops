@@ -1,2 +1,2 @@
 #!/cin/bash
-echo "%x\n" $DECIMAL
+printf "%x\n" $DECIMAL
